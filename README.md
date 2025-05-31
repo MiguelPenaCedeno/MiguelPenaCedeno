@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there, I'm Miguel Peña 👋
 
-<!--
-**MiguelPenaCedeno/MiguelPenaCedeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Location:** Bogotá, Colombia :colombia:
+- **Email:** <miguelangelpenacedeno@gmail.com>
+- **Universities:** National University of Colombia, Pontifical Xavierian University, Platzi
+- **Academic Background:** Data science and Philosophy undergraduate student :computer::book:
+
+### Languages
+
+- C++, C, Python
+
+### Skills and technologies
+
+Here are some of the tools and technologies I love working with:
+
+- Chinese language HSK1 :china:
+- GitHub, Git
+- Drummer
+
+### Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-angel-pena-cedeno/)
