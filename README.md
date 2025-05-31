@@ -17,7 +17,7 @@ Welcome to my GitHub!
 
 Here are some of the tools and technologies I love working with:
 
-- Chinese language HSK1 :china:
+- Chinese language HSK1
 - GitHub, Git
 - Drummer
 
