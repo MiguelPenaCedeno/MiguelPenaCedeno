@@ -21,6 +21,11 @@ Here are some of the tools and technologies I love working with:
 - GitHub, Git
 - Drummer
 
+### Recent activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-angel-pena-cedeno/)
