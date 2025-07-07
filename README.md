@@ -11,7 +11,7 @@ Welcome to my GitHub!
 
 ### Languages
 
-- C++, C, Python
+- C++, C, Python, R
 
 ### Skills and technologies
 
