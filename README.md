@@ -23,15 +23,15 @@ Here are some of the tools and technologies I love working with:
 
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/Proyectos-cplusplus](https://github.com/MiguelPenaCedeno/Proyectos-cplusplus)<br>
-2. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/Proyectos-cplusplus](https://github.com/MiguelPenaCedeno/Proyectos-cplusplus)<br>
-3. ⬆️ Pushed 2 commit(s) to [MiguelPenaCedeno/Proyectos-cplusplus](https://github.com/MiguelPenaCedeno/Proyectos-cplusplus)<br>
-4. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/Proyectos-cplusplus](https://github.com/MiguelPenaCedeno/Proyectos-cplusplus)<br>
-5. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/c-](https://github.com/MiguelPenaCedeno/c-)<br>
+1. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/platzijupyter](https://github.com/MiguelPenaCedeno/platzijupyter)<br>
+2. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/analisis-covid-19](https://github.com/MiguelPenaCedeno/analisis-covid-19)<br>
+3. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/analisis-covid-19](https://github.com/MiguelPenaCedeno/analisis-covid-19)<br>
+4. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/analisis-covid-19](https://github.com/MiguelPenaCedeno/analisis-covid-19)<br>
+5. ⬆️ Pushed 1 commit(s) to [MiguelPenaCedeno/analisis-covid-19](https://github.com/MiguelPenaCedeno/analisis-covid-19)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 5th, 2025, 1:20:47 AM
+Last Updated: Tuesday, August 5th, 2025, 12:34:47 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Contact
