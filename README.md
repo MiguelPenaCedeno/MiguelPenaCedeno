@@ -23,11 +23,12 @@ Here are some of the tools and technologies I love working with:
 
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/Visualizacion_2026_10](https://github.com/MiguelPenaCedeno/Visualizacion_2026_10)<br>
+1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/programacion_avanzada](https://github.com/MiguelPenaCedeno/programacion_avanzada)<br>
+2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/Visualizacion_2026_10](https://github.com/MiguelPenaCedeno/Visualizacion_2026_10)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 10th, 2026, 1:00:47 PM
+Last Updated: Wednesday, February 11th, 2026, 1:54:55 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Contact
