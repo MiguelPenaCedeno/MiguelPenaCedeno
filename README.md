@@ -6,8 +6,8 @@ Welcome to my GitHub!
 
 - **Location:** Bogotá, Colombia :colombia:
 - **Email:** <miguelangelpenacedeno@gmail.com>
-- **Universities:** National University of Colombia, Pontifical Xavierian University, Platzi
-- **Academic Background:** Data science and Philosophy undergraduate student :computer::book:
+- **Universities:** Pontifical Xavierian University, Platzi
+- **Academic Background:** Data science :computer::book:
 
 ### Languages
 
