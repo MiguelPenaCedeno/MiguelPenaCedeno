@@ -23,15 +23,15 @@ Here are some of the tools and technologies I love working with:
 
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/programacion_avanzada](https://github.com/MiguelPenaCedeno/programacion_avanzada)<br>
-2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/MiguelPenaCedeno](https://github.com/MiguelPenaCedeno/MiguelPenaCedeno)<br>
-3. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/programacion_avanzada](https://github.com/MiguelPenaCedeno/programacion_avanzada)<br>
-4. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/programacion_avanzada](https://github.com/MiguelPenaCedeno/programacion_avanzada)<br>
-5. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/programacion_avanzada](https://github.com/MiguelPenaCedeno/programacion_avanzada)<br>
+1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_web](https://github.com/MiguelPenaCedeno/pagina_web)<br>
+2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_web](https://github.com/MiguelPenaCedeno/pagina_web)<br>
+3. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_web](https://github.com/MiguelPenaCedeno/pagina_web)<br>
+4. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_web](https://github.com/MiguelPenaCedeno/pagina_web)<br>
+5. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_web](https://github.com/MiguelPenaCedeno/pagina_web)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 23rd, 2026, 2:00:07 PM
+Last Updated: Tuesday, February 24th, 2026, 1:44:01 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Contact
