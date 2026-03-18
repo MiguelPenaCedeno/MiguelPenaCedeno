@@ -22,15 +22,15 @@ Here are some of the tools and technologies I love working with:
 
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/macroeconomia_taller_1](https://github.com/MiguelPenaCedeno/macroeconomia_taller_1)<br>
-2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/macroeconomia_taller_1](https://github.com/MiguelPenaCedeno/macroeconomia_taller_1)<br>
-3. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/macroeconomia_taller_1](https://github.com/MiguelPenaCedeno/macroeconomia_taller_1)<br>
-4. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/macroeconomia_taller_1](https://github.com/MiguelPenaCedeno/macroeconomia_taller_1)<br>
-5. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/MiguelPenaCedeno](https://github.com/MiguelPenaCedeno/MiguelPenaCedeno)<br>
+1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_programacion_avanzada](https://github.com/MiguelPenaCedeno/proyecto_programacion_avanzada)<br>
+2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_programacion_avanzada](https://github.com/MiguelPenaCedeno/proyecto_programacion_avanzada)<br>
+3. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_programacion_avanzada](https://github.com/MiguelPenaCedeno/proyecto_programacion_avanzada)<br>
+4. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_programacion_avanzada](https://github.com/MiguelPenaCedeno/proyecto_programacion_avanzada)<br>
+5. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/macroeconomia_taller_1](https://github.com/MiguelPenaCedeno/macroeconomia_taller_1)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 17th, 2026, 12:59:55 PM
+Last Updated: Wednesday, March 18th, 2026, 1:49:26 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Contact
