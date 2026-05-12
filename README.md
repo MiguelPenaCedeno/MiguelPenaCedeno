@@ -22,15 +22,15 @@ Here are some of the tools and technologies I love working with:
 
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_arquitectura_metalica](https://github.com/MiguelPenaCedeno/pagina_arquitectura_metalica)<br>
-2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_arquitectura_metalica](https://github.com/MiguelPenaCedeno/pagina_arquitectura_metalica)<br>
-3. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_arquitectura_metalica](https://github.com/MiguelPenaCedeno/pagina_arquitectura_metalica)<br>
-4. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_arquitectura_metalica](https://github.com/MiguelPenaCedeno/pagina_arquitectura_metalica)<br>
-5. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/pagina_arquitectura_metalica](https://github.com/MiguelPenaCedeno/pagina_arquitectura_metalica)<br>
+1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_visualizacion_2610](https://github.com/MiguelPenaCedeno/proyecto_visualizacion_2610)<br>
+2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_visualizacion_2610](https://github.com/MiguelPenaCedeno/proyecto_visualizacion_2610)<br>
+3. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_visualizacion_2610](https://github.com/MiguelPenaCedeno/proyecto_visualizacion_2610)<br>
+4. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_visualizacion_2610](https://github.com/MiguelPenaCedeno/proyecto_visualizacion_2610)<br>
+5. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_visualizacion_2610](https://github.com/MiguelPenaCedeno/proyecto_visualizacion_2610)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, May 11th, 2026, 2:36:52 PM
+Last Updated: Tuesday, May 12th, 2026, 2:32:35 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Contact
