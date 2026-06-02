@@ -22,7 +22,7 @@ Here are some of the tools and technologies I love working with:
 
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_final_POO](https://github.com/MiguelPenaCedeno/proyecto_final_POO)<br>
+1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_visualizacion_2610](https://github.com/MiguelPenaCedeno/proyecto_visualizacion_2610)<br>
 2. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_final_POO](https://github.com/MiguelPenaCedeno/proyecto_final_POO)<br>
 3. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_final_POO](https://github.com/MiguelPenaCedeno/proyecto_final_POO)<br>
 4. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/proyecto_final_POO](https://github.com/MiguelPenaCedeno/proyecto_final_POO)<br>
@@ -30,7 +30,7 @@ Here are some of the tools and technologies I love working with:
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 1st, 2026, 5:26:45 PM
+Last Updated: Tuesday, June 2nd, 2026, 3:27:33 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### Contact
