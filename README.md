@@ -18,7 +18,6 @@ Welcome to my GitHub!
 Here are some of the tools and technologies I love working with:
 
 - GitHub, Git
-- Drummer
 
 ### Recent activity
 <!--RECENT_ACTIVITY:start-->
