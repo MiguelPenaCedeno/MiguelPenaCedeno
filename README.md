@@ -24,3 +24,4 @@ Data Science student based in Bogotá, Colombia. I build data pipelines, interac
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-angel-pena-cedeno/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelangelpenacedeno@gmail.com)
