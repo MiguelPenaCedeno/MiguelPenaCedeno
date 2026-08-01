@@ -1,32 +1,25 @@
-## Hi there, I'm Miguel Peña 👋
+## Hi there, I'm Miguel 👋
 
-Welcome to my GitHub!
+Data Science student based in Bogotá, Colombia. I build data pipelines, interactive dashboards, and self hosted infrastructure. Bilingual, English C1.
 
-### About me
+### Featured projects
 
-- **Location:** Bogotá, Colombia :colombia:
-- **Email:** <miguelangelpenacedeno@gmail.com>
-- **Universities:** Pontifical Xavierian University, Platzi
-- **Academic Background:** Data science :computer::book:
+- **[Do Peaceful Countries Win More Medals?](https://github.com/MiguelPenaCedeno/proyecto_visualizacion_2610)** — Interactive D3.js dashboard with cross filtering, built on a star schema pipeline combining the World Happiness Report, the Global Peace Index, and Olympic results. [Live demo](https://proyectovisualizacion2610.vercel.app)
+- **[Nigeria Macroeconomics Dashboard](#)** — Data visualization of central bank monetary tightening, deployed on Vercel.
+- **[Advanced Programming in C++](#)** — Object oriented programming, custom exceptions, file persistence, and pointer based data structures.
 
-### Languages
+### Tech stack
 
-- C++, C, Python, R
+**Languages:** Python, SQL, Java, C++, C, R, JavaScript
 
-### Skills and technologies
+**Data:** pandas, D3.js, Jupyter
 
-Here are some of the tools and technologies I love working with:
+**Tools:** Git, Docker, Linux
 
-- GitHub, Git
+### Education
 
-### Recent activity
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [MiguelPenaCedeno/MiguelPenaCedeno](https://github.com/MiguelPenaCedeno/MiguelPenaCedeno)<br>
-<!--RECENT_ACTIVITY:end-->
-
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 31st, 2026, 1:50:14 PM
-<!--RECENT_ACTIVITY:last_update_end-->
+- **Pontificia Universidad Javeriana** — Data Science
+- **Universidad Nacional de Colombia** — Philosophy
 
 ### Contact
 
